@@ -1,4 +1,4 @@
-import React from 'react'
+nimport React from 'react'
 
 const Footer = () => {
     
@@ -15,7 +15,7 @@ const Footer = () => {
 <footer className=" text-center text-white py-3" style={f7}>
   
   <p className="text-center " >
-    Copyright @ Ayushi and Sanyam
+    Copyright @ Dhanaeswaran
   </p>
 </footer>
       </>
